@@ -4,7 +4,7 @@ This README file documents the data cleaning process performed on the cafe store
 
 ## Dataset Description
 
-The dataset contains sales transactions for a cafe store, spanning [Start Date] to [End Date].  It includes information such as:
+The dataset contains sales transactions for a cafe store, spanning 2023-01-01 to 2023-12-31.  It includes information such as:
 
 *   Transaction ID
 *   Item
@@ -57,4 +57,4 @@ The following steps were taken to clean the data:
 
 ## Output
 
-The cleaned data is saved in a file named `cleaned_cafe_sales.csv` (or specify the actual file name and format).
+The cleaned data is saved in a file named `clean_cafe_sales.csv`.
